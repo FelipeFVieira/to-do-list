@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.senai</groupId>
-	<artifactId>todolist</artifactId>
+	<artifactId>springBootToDoList</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>todolist</name>
+	<name>springBootToDoList</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>
