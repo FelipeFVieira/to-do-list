@@ -1,5 +1,9 @@
 package com.senai.springBootToDoList.repository;
 
-public interface TaskRepository {
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.senai.springBootToDoList.model.Task;
+
+public interface TaskRepository extends JpaRepository<Task, Integer> {
 
 }
